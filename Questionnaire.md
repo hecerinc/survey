@@ -87,21 +87,21 @@ http://meta.stackoverflow.com/questions/319221/what-else-should-we-ask-developer
 	- I want to go to Mars right now, even if there's a chance I never come back. Disagree Completely
 
 35. When evaluating a new employment opportunity what's most important to you? 
-	Building something that's significant
-	Quality of colleagues
-	Building something that's innovative
-	Flexible work hours
-	Opportunity for advancement
-	Salary
+	- Building something that's significant
+	- Quality of colleagues
+	- Building something that's innovative
+	- Flexible work hours
+	- Opportunity for advancement
+	- Salary
 
 31. What's important to you at work?
-	Working on a variety of projects | This is somewhat important
-	Having control over product decisions | This is somewhat important
-	Ending work at the same time every day | This is somewhat important
-	Learning new technologies | This is somewhat important
-	Building something new | This is very important
-	Improving existing applications | This is very important
-	Getting promoted | This is somewhat important
-	Believing strongly in my company's mission | This is very important
-	Working from home | This is somewhat important
-	Having my own office | This is somewhat important
+	- Working on a variety of projects | This is somewhat important
+	- Having control over product decisions | This is somewhat important
+	- Ending work at the same time every day | This is somewhat important
+	- Learning new technologies | This is somewhat important
+	- Building something new | This is very important
+	- Improving existing applications | This is very important
+	- Getting promoted | This is somewhat important
+	- Believing strongly in my company's mission | This is very important
+	- Working from home | This is somewhat important
+	- Having my own office | This is somewhat important
