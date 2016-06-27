@@ -47,8 +47,18 @@
 - Salaries
 
 
+¿Te quieres ir de intercambio?
+¿Quieres trabajar en México o en el extranjero? ** (Medir expectativas de la gente)
+¿Cuál de estas empresas es tu dream job?
+	- Google
+	- MSFT
+	- Facebook
+	- Twitter
+	- EA Games
+	- Ubisoft
+	- Pinterest
 
-
+	
 What have been the most helpful resources in building your skills as a developer?
 
     Degree Program
