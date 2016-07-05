@@ -17,7 +17,7 @@
 - Graduado o Estudiando
 	- Año en el que te graduaste
 - Highest level de preparación
-	- Highest degree you *expect* to acheive (PhD, masterrs)
+	- Highest degree you *expect* to acheive (PhD, masters)
 - Have you taken online courses/certifications? How many?
 
 
@@ -115,3 +115,8 @@ http://meta.stackoverflow.com/questions/319221/what-else-should-we-ask-developer
 	- Believing strongly in my company's mission | This is very important
 	- Working from home | This is somewhat important
 	- Having my own office | This is somewhat important
+
+
+### How to ask about gender
+
+https://www.gov.uk/service-manual/user-centred-design/resources/patterns/gender-and-sex.html#section-1

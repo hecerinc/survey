@@ -1,0 +1,280 @@
+# Cuestionario Final
+
+## Demographics
+
+- ¿Cuál es tu nacionalidad?
+- ¿En qué país vives actualmente (residencia permanente)? **MC**
+- ¿Cuántos años tienes? **MC**
+- ¿Con qué género te identificas? 
+	- Femenino
+	- Masculino
+	- Otro
+	- Prefiero no responder
+
+## Misc.
+
+- ¿Sabías programar en algún lenguaje antes de entrar a la carrera?
+
+## Flow
+- ¿Estudiante o graduado?
+	- Estudiante
+	- Graduado
+
+- Año de graduación
+- ¿En qué semestre vas? (aproximadamente)
+
+## Education
+- Nivel más alto de preparación académica (que has **completado**)
+	- Preparatoria
+	- Profesional (BA, BS)
+	- Maestría
+	- Doctorado
+- Nivel más alto de preparación académica que planeas tener
+	- Profesional
+	- Maestría
+	- Doctorado
+- ¿Actualmente tienes alguna certificación en algún área de las Ciencias Computacionales (Redes, Ing. Software, Web, HCI)?
+- ¿Planeas / te has ido de intercambio al extranjero?
+	- Planeo irme de intercambio
+	- No planeo irme de intercambio
+	- Ya me fui de intercambio
+	- No me fui de intercambio
+
+## Tech Stack
+- What tools do you actually use? (tech stack)
+`HELLPP HERE`
+- Te identificas más (en este momento) con:
+	- Desarrollo web
+	- Desarrollo móvil
+	- Redes
+	- Machine Learning
+	- Data Science
+- ¿En cuál de los siguientes lenguajes has desarrollado de manera extensiva en el último año?
+	- C
+	- C++
+	- C#
+	- Java
+	- JavaScript
+	- Python
+	- Ruby
+	- Rust
+	- Perl
+	- Assembly
+	- Visual Basic
+	- Matlab
+	- SQL
+	- PHP
+	- R
+	- Objective-C
+	- Swift
+	- Fortran
+	- Pascal
+	- Erlang
+	- Haskell
+	- Prolog
+	- Elixir
+	- Lisp (cualquiera de sus variantes)
+	- Lua
+	- Go
+
+
+- ¿Cuál de las siguientes tecnologías conoces a profundidad o has utilizado de manera extensiva en el último año? (aka the frameworks/libraries question)
+	- HTML, CSS
+	- Node.js
+	- AngularJS
+	- React.js
+	- .NET
+	- Git
+	- WordPress
+	- Raspberry Pi
+	- JSP
+	- Delphi
+	- Groovy
+	- Scala
+	- Ember
+	- Laravel
+	- CakePHP
+	- Meteor.js
+	- Backbone.js
+	- Linux
+	- LAMP
+	- MEAN
+	- Windows
+	- macOS
+	- CodeIgniter
+	- Symfony
+	- Polymer
+	- jQuery
+	- D3.js
+	- TypeScript
+	- CoffeeScript
+	- Unity
+	- Xamarin
+	- Android
+	- iOS
+	- MongoDB
+	- Flask
+	- Apache Spark
+	- Apache Hadoop
+	- Windows Phone
+	- Cassandra
+	- PostgreSQL
+	- MySQL
+
+- ¿DBMS preferido?
+	- Redis
+	- Oracle
+	- SQL Server
+	- PostgreSQL
+	- MongoDB
+	- DB2
+	- Cassandra
+	- SQLite
+	- MySQL
+
+- ¿Cuál es tu lenguaje preferido?
+- El lenguaje que menos te gusta o jamás aprenderías es:
+- ¿Qué herramientas más te interesaría aprender? (Select all that apply)
+- ¿Cuáles han sido los recursos más útiles en tu preparación como desarrollador?
+	- Programa académico (carrera, maestría, doctorado)
+	- Programa de certificación
+	- Dev Bootcamp
+	- Conferencias / Summits
+	- Libros
+	- Cursos online (excepto MOOCs)
+	- MOOCs
+	- Comunidades en internet (StackOverflow, foros, etc.)
+	- Experiencia laboral
+	- Internship
+	- Pair Programming
+	- Trabajar en proyectos personales
+	- Mentor
+
+## Ambiente de desarrollo
+- ¿Cuál es tu editor de texto o IDE preferido?
+	- IntelliJ
+	- Notepad++
+	- Notepad
+	- Vi(m)
+	- Sublime Text
+	- Atom
+	- CodeBlocks
+	- Emacs
+	- XCode
+	- NetBeans
+	- Android Studio
+	- Eclipse
+	- Visual Studio
+	- Visual Studio Code
+	- Xamarin
+	- RStudio
+	- iPython / Jupyter
+	- RubyMine
+	- TextMate
+- ¿Cuál es tu sistema operativo principal?
+	- macOS / OSX
+	- Windows
+	- Linux
+`if linux`:
+	- Distribución de Linux preferida:
+		- Debian
+		- Ubuntu
+		- Redhat
+		- Fedora
+		- Arch
+		- openSUSE
+		- Mint
+		- Kali
+		- Slackware
+		- Mageia
+- ¿Tabs o espacios?
+	- Tabs
+	- Espacios
+	- Don't care
+- ¿Qué herramienta de control de versionamiento (version/source control) utilizas?
+	- Git
+	- Mercurial
+	- Subversion
+	- CVS
+	- TFS
+	- No utilizo un sistema de control de versionamiento (you really should)
+
+## Employment
+
+- ¿Cuál es tu estatus laboral?
+	- Trabajo medio tiempo
+	- Trabajo tiempo completo
+	- Autoempleado
+	- Freelance
+	- Soy estudiante
+	- No tengo empleo
+	- Prefiero no responder
+- ¿Cuántos tiempo llevas trabajando?
+- ¿Cuánto tiempo llevas en tu último trabajo?
+- ¿Por qué medio obtuviste tu trabajo actual?
+	- Referido (amigos, familiares, compañeros, maestros, etc.)
+	- LinkedIn
+	- Ferias de empleo (e.g. EmpleaTec)
+	- Bolsa de Trabajo (e.g. OCC)
+	- Reclutador
+	- Visitas al Tec
+	- Aplicación directa
+	- Autoempleado
+	- Facebook
+	- Twitter
+	- Otras redes sociales
+- ¿Actualmente estás buscando un empleo?
+	- Busco un empleo de tiempo completo
+	- Busco un empleo de medio tiempo
+	- No busco un empleo pero estoy abierto a nuevas oportunidades
+	- No busco un empleo
+- Cuando estás evaluando una nueva oportunidad de empleo, ¿qué es lo más importante para ti?
+	- Construir algo con significado
+	- Construir algo innovador
+	- Compañeros de trabajo
+	- Horario flexible de trabajo
+	- Oportunidad de crecimiento
+	- Salario
+- ¿Preferirías trabajar en México o en el extranjero?
+	- México
+	- Extranjero
+- ¿Cuál es la empresa de tus sueños?
+	- Google
+	- Microsoft
+	- Facebook
+	- Twitter
+	- Oracle
+	- EA Games
+	- HP
+	- Intel
+	- Tesla Motors
+	- SpaceX
+	- Netflix
+	- Cisco
+	- Juniper
+	- Apple
+	- Amazon
+	- Docker
+	- Mozilla
+	- Activision Blizzard
+	- Ubisoft
+	- Pinterest
+	- LinkedIn
+	- Airbnb
+	- Dropbox
+	- Uber
+	- Snapchat
+- ¿En qué medida son importantes para ti los siguientes criterios en un trabajo?
+	- Tener variedad de proyectos
+	- Tener incidencia/influencia en las decisiones importantes 
+	- Tener horarios fijos de trabajo
+	- Aprender nuevas tecnologías
+	- Construir algo nuevo
+	- Mejorar aplicaciones existentes
+	- Oportunidad de crecimiento 
+	- Creer fuertemente en la misión/producto de mi compañía
+	- Trabajo remoto
+	- Tener mi propia oficina
+	- Tech Stack
+
+
